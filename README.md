@@ -1,6 +1,6 @@
-# missiriga
+# msa-iriga
 
-Tabulation System for Miss Iriga (Camarines Sur)
+Tabulation System for Miss San Antonio (Camarines Sur)
 
 ---
 ## Development Setup
